@@ -1,0 +1,6 @@
+@ColibriCafe.ECoffe.Backend.Api_HostAddress = http://localhost:5029
+
+GET {{ColibriCafe.ECoffe.Backend.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Enterprise Bussines Rules", "1. Enterprise Bussines Rules", "{23106663-F254-4540-B0BF-C2EA1BA1F6C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application Bussines Rules", "2. Application Bussines Rules", "{E1328BF8-7D8F-40EA-A16E-1AF875E37CA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Interface Adapters", "3. Interface Adapters", "{23D03BC4-F716-40B6-AFB7-F6BA1C3A0DB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Frameworks & Drivers", "4. Frameworks & Drivers", "{FBF7FEEB-A1FD-4EAF-B0C6-9DCCBF50F1A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{CDC9CA07-AED5-4FDA-A6D8-407AF7B1CC64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColibriCafe.ECoffe.Backend.Entities", "..\ColibriCafe.ECoffe.Backend.Entities\ColibriCafe.ECoffe.Backend.Entities.csproj", "{87A1359D-96BF-42B9-B96B-1DF2B8DDF5BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ports", "Ports", "{306EEC88-05C6-4A8E-AABE-26D347D68933}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UseCases", "UseCases", "{178BD2F5-AC78-4D58-BF33-F8708C494A0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{14CFA542-B1FC-4248-8DDD-1D89D2A9C8FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateways", "Gateways", "{83E6BF32-5BA1-4B4A-932B-1B91320089B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColibriCafe.ECoffe.Backend.Ports", "..\ColibriCafe.ECoffe.Backend.Ports\ColibriCafe.ECoffe.Backend.Ports.csproj", "{0DA2230A-3C7C-4185-8556-0C2C2738560F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authorization", "Authorization", "{B34A3844-9ACE-4D19-AACC-A31DC6F27DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColibriCafe.ECoffe.Backend.AuthorizationUseCase", "..\ColibriCafe.ECoffe.Backend.AuthorizationUseCase\ColibriCafe.ECoffe.Backend.AuthorizationUseCase.csproj", "{4CCFB54E-17E1-410F-9873-2536922D950A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColibriCafe.ECoffe.Backend.Controllers", "..\ColibriCafe.ECoffe.Backend.Controllers\ColibriCafe.ECoffe.Backend.Controllers.csproj", "{BB26A388-08BA-4AF3-875F-ECC7908B58FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColibriCafe.ECoffe.Backend.Repository", "..\ColibriCafe.ECoffe.Backend.Repository\ColibriCafe.ECoffe.Backend.Repository.csproj", "{D5880DC0-87B2-47AC-949D-B6D509324C38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApiApp", "WebApiApp", "{AC6F5110-5D74-46F3-BE71-CB728554B6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColibriCafe.ECoffe.Backend.Api", "..\ColibriCafe.ECoffe.Backend.Api\ColibriCafe.ECoffe.Backend.Api.csproj", "{1F0B7DC4-62BA-432B-9D53-6BC6481F09A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColibriCafe.ECoffe.Backend.ServicesConfiguration", "..\ColibriCafe.ECoffe.Backend.ServicesConfiguration\ColibriCafe.ECoffe.Backend.ServicesConfiguration.csproj", "{0DCFE69F-D6BA-4E77-A1A7-229630645411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A1359D-96BF-42B9-B96B-1DF2B8DDF5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A1359D-96BF-42B9-B96B-1DF2B8DDF5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A1359D-96BF-42B9-B96B-1DF2B8DDF5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A1359D-96BF-42B9-B96B-1DF2B8DDF5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA2230A-3C7C-4185-8556-0C2C2738560F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA2230A-3C7C-4185-8556-0C2C2738560F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA2230A-3C7C-4185-8556-0C2C2738560F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA2230A-3C7C-4185-8556-0C2C2738560F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCFB54E-17E1-410F-9873-2536922D950A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCFB54E-17E1-410F-9873-2536922D950A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCFB54E-17E1-410F-9873-2536922D950A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCFB54E-17E1-410F-9873-2536922D950A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB26A388-08BA-4AF3-875F-ECC7908B58FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB26A388-08BA-4AF3-875F-ECC7908B58FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB26A388-08BA-4AF3-875F-ECC7908B58FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB26A388-08BA-4AF3-875F-ECC7908B58FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5880DC0-87B2-47AC-949D-B6D509324C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5880DC0-87B2-47AC-949D-B6D509324C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5880DC0-87B2-47AC-949D-B6D509324C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5880DC0-87B2-47AC-949D-B6D509324C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0B7DC4-62BA-432B-9D53-6BC6481F09A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0B7DC4-62BA-432B-9D53-6BC6481F09A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0B7DC4-62BA-432B-9D53-6BC6481F09A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0B7DC4-62BA-432B-9D53-6BC6481F09A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCFE69F-D6BA-4E77-A1A7-229630645411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCFE69F-D6BA-4E77-A1A7-229630645411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCFE69F-D6BA-4E77-A1A7-229630645411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCFE69F-D6BA-4E77-A1A7-229630645411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDC9CA07-AED5-4FDA-A6D8-407AF7B1CC64} = {23106663-F254-4540-B0BF-C2EA1BA1F6C0}
+		{87A1359D-96BF-42B9-B96B-1DF2B8DDF5BD} = {CDC9CA07-AED5-4FDA-A6D8-407AF7B1CC64}
+		{306EEC88-05C6-4A8E-AABE-26D347D68933} = {E1328BF8-7D8F-40EA-A16E-1AF875E37CA4}
+		{178BD2F5-AC78-4D58-BF33-F8708C494A0A} = {E1328BF8-7D8F-40EA-A16E-1AF875E37CA4}
+		{14CFA542-B1FC-4248-8DDD-1D89D2A9C8FD} = {23D03BC4-F716-40B6-AFB7-F6BA1C3A0DB4}
+		{83E6BF32-5BA1-4B4A-932B-1B91320089B6} = {23D03BC4-F716-40B6-AFB7-F6BA1C3A0DB4}
+		{0DA2230A-3C7C-4185-8556-0C2C2738560F} = {306EEC88-05C6-4A8E-AABE-26D347D68933}
+		{B34A3844-9ACE-4D19-AACC-A31DC6F27DC6} = {178BD2F5-AC78-4D58-BF33-F8708C494A0A}
+		{4CCFB54E-17E1-410F-9873-2536922D950A} = {B34A3844-9ACE-4D19-AACC-A31DC6F27DC6}
+		{BB26A388-08BA-4AF3-875F-ECC7908B58FF} = {14CFA542-B1FC-4248-8DDD-1D89D2A9C8FD}
+		{D5880DC0-87B2-47AC-949D-B6D509324C38} = {83E6BF32-5BA1-4B4A-932B-1B91320089B6}
+		{AC6F5110-5D74-46F3-BE71-CB728554B6AE} = {FBF7FEEB-A1FD-4EAF-B0C6-9DCCBF50F1A8}
+		{1F0B7DC4-62BA-432B-9D53-6BC6481F09A7} = {AC6F5110-5D74-46F3-BE71-CB728554B6AE}
+		{0DCFE69F-D6BA-4E77-A1A7-229630645411} = {FBF7FEEB-A1FD-4EAF-B0C6-9DCCBF50F1A8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E0790F3-C2C7-486C-853C-899FAEF95452}
+	EndGlobalSection
+EndGlobal

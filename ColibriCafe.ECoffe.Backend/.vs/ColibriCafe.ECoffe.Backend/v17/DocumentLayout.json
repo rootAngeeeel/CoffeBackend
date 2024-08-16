@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROOTKIT\\Desktop\\ECoffeApi\\ColibriCafe.ECoffe.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B7DC4-62BA-432B-9D53-6BC6481F09A7}|..\\ColibriCafe.ECoffe.Backend.Api\\ColibriCafe.ECoffe.Backend.Api.csproj|c:\\users\\rootkit\\desktop\\ecoffeapi\\colibricafe.ecoffe.backend.api\\configurations\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCFB54E-17E1-410F-9873-2536922D950A}|..\\ColibriCafe.ECoffe.Backend.AuthorizationUseCase\\ColibriCafe.ECoffe.Backend.AuthorizationUseCase.csproj|c:\\users\\rootkit\\desktop\\ecoffeapi\\colibricafe.ecoffe.backend.authorizationusecase\\gettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ROOTKIT\\Desktop\\ECoffeApi\\ColibriCafe.ECoffe.Backend.Api\\Configurations\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\ColibriCafe.ECoffe.Backend.Api\\Configurations\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\ROOTKIT\\Desktop\\ECoffeApi\\ColibriCafe.ECoffe.Backend.Api\\Configurations\\ServiceConfiguration.cs",
+              "RelativeToolTip": "..\\ColibriCafe.ECoffe.Backend.Api\\Configurations\\ServiceConfiguration.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:37:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetToken.cs",
+              "DocumentMoniker": "C:\\Users\\ROOTKIT\\Desktop\\ECoffeApi\\ColibriCafe.ECoffe.Backend.AuthorizationUseCase\\GetToken.cs",
+              "RelativeDocumentMoniker": "..\\ColibriCafe.ECoffe.Backend.AuthorizationUseCase\\GetToken.cs",
+              "ToolTip": "C:\\Users\\ROOTKIT\\Desktop\\ECoffeApi\\ColibriCafe.ECoffe.Backend.AuthorizationUseCase\\GetToken.cs",
+              "RelativeToolTip": "..\\ColibriCafe.ECoffe.Backend.AuthorizationUseCase\\GetToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:36:17.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFUiyQo7ZMU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROOTKIT\\Desktop\\ECoffeApi\\ColibriCafe.ECoffe.Backend.ServicesConfiguration\\ColibriCafe.ECoffe.Backend.ServicesConfiguration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROOTKIT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
